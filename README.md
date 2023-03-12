@@ -8,7 +8,28 @@ Source Name -> Class Name
     
 ### Main
 #
-    asdasd
+GameState            =          World.GameState
+GameInstance         =          World.OwningGameInstance
+LocalPlayers         =          GameInstance.LocalPlayers
+PlayerController     =          Player.PlayerController
+LocalPawn            =          PlayerController.AcknowledgedPawn
+PlayerState          =          Pawn.PlayerState
+RootComponent        =          Actor.RootComponent
+PersistentLevel      =          World.PersistentLevel
+ActorCount           =          FortActorComponent_MultiInteract.ActorCountChangedDelegate
+AActor               =          NetConnection.OwningActor
+CurrentActor         =          PlayerState.PawnPrivate
+Mesh                 =          Character.Mesh
+ReviveFromDBNOTime   =          FortPlayerPawnAthena.ReviveFromDBNOTime
+TeamID               =          FortPlayerStateAthena.TeamIndex 
+LocalActorPos        =          SceneComponent.RelativeLocation
+ComponetToWorld      =          ???
+BoneArray            =          ???  
+Velocity             =          SceneComponent.ComponentVelocity
+PawnPrivate          =          PlayerState.PawnPrivate
+PlayerArray          =          AGameStateBase.PlayerArray
+PlayerCameraManager  =          PlayerController.PlayerCameraManager
+    
     
     
     
