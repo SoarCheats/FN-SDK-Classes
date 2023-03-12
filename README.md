@@ -7,7 +7,7 @@ Source Name -> Class Name
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=FortniteClient-Win64-Shipping.exe;IRP_MJ_FLUSH_BUFFERS;GetIndexByFName;POV:+Your+Using+PEAuth.sys;soarcheats.xyz)](https://git.io/typing-svg)
     
 
-   <h3 align="left">
+   <h5 align="left">
      
 GameState            =          World.GameState <br />
      
