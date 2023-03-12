@@ -7,7 +7,7 @@ Source Name -> Class Name
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=FortniteClient-Win64-Shipping.exe;IRP_MJ_FLUSH_BUFFERS;GetIndexByFName;POV:+Your+Using+PEAuth.sys;soarcheats.xyz)](https://git.io/typing-svg)
     
 
-      <h3 align="center">
+      <h2 align="center">
 GameState            =          World.GameState
 GameInstance         =          World.OwningGameInstance
 LocalPlayers         =          GameInstance.LocalPlayers
@@ -29,7 +29,6 @@ Velocity             =          SceneComponent.ComponentVelocity
 PawnPrivate          =          PlayerState.PawnPrivate
 PlayerArray          =          AGameStateBase.PlayerArray
 PlayerCameraManager  =          PlayerController.PlayerCameraManager
-    </p>
     
     
     
