@@ -8,27 +8,27 @@ Source Name -> Class Name
     
 
    <h3 align="center">
-GameState            =          World.GameState
-GameInstance         =          World.OwningGameInstance
-LocalPlayers         =          GameInstance.LocalPlayers
-PlayerController     =          Player.PlayerController
-LocalPawn            =          PlayerController.AcknowledgedPawn
-PlayerState          =          Pawn.PlayerState
-RootComponent        =          Actor.RootComponent
-PersistentLevel      =          World.PersistentLevel
-ActorCount           =          FortActorComponent_MultiInteract.ActorCountChangedDelegate
-AActor               =          NetConnection.OwningActor
-CurrentActor         =          PlayerState.PawnPrivate
-Mesh                 =          Character.Mesh
-ReviveFromDBNOTime   =          FortPlayerPawnAthena.ReviveFromDBNOTime
-TeamID               =          FortPlayerStateAthena.TeamIndex 
-LocalActorPos        =          SceneComponent.RelativeLocation
-ComponetToWorld      =          ???
-BoneArray            =          ???  
-Velocity             =          SceneComponent.ComponentVelocity
-PawnPrivate          =          PlayerState.PawnPrivate
-PlayerArray          =          AGameStateBase.PlayerArray
-PlayerCameraManager  =          PlayerController.PlayerCameraManager
+GameState            =          World.GameState <br />
+GameInstance         =          World.OwningGameInstance <br />
+LocalPlayers         =          GameInstance.LocalPlayers <br />
+PlayerController     =          Player.PlayerController <br />
+LocalPawn            =          PlayerController.AcknowledgedPawn <br />
+PlayerState          =          Pawn.PlayerState <br />
+RootComponent        =          Actor.RootComponent <br />
+PersistentLevel      =          World.PersistentLevel <br />
+ActorCount           =          FortActorComponent_MultiInteract.ActorCountChangedDelegate <br />
+AActor               =          NetConnection.OwningActor <br />
+CurrentActor         =          PlayerState.PawnPrivate <br />
+Mesh                 =          Character.Mesh <br />
+ReviveFromDBNOTime   =          FortPlayerPawnAthena.ReviveFromDBNOTime <br />
+TeamID               =          FortPlayerStateAthena.TeamIndex  <br />
+LocalActorPos        =          SceneComponent.RelativeLocation <br />
+ComponetToWorld      =          ??? <br />
+BoneArray            =          ???   <br />
+Velocity             =          SceneComponent.ComponentVelocity <br />
+PawnPrivate          =          PlayerState.PawnPrivate <br />
+PlayerArray          =          AGameStateBase.PlayerArray <br />
+PlayerCameraManager  =          PlayerController.PlayerCameraManager <br />
     
     
     
