@@ -8,11 +8,11 @@ Source Name -> Class Name
     
 ### Main
 #
-GameState            =          World.GameState
-GameInstance         =          World.OwningGameInstance
-LocalPlayers         =          GameInstance.LocalPlayers
-PlayerController     =          Player.PlayerController
-LocalPawn            =          PlayerController.AcknowledgedPawn
+#GameState            =          World.GameState
+#GameInstance         =          World.OwningGameInstance
+#LocalPlayers         =          GameInstance.LocalPlayers
+#PlayerController     =          Player.PlayerController
+#LocalPawn            =          PlayerController.AcknowledgedPawn
 PlayerState          =          Pawn.PlayerState
 RootComponent        =          Actor.RootComponent
 PersistentLevel      =          World.PersistentLevel
